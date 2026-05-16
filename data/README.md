@@ -1,0 +1,1 @@
+The dataset is not included in this repository due to size limits. To download the dataset, please run the script in notebooks/01_eda.ipynb or download it manually from Hugging Face and place train.csv and test.csv in this folder
