@@ -1,0 +1,9 @@
+# Игнорируем данные
+data/*.csv
+data/*.zip
+
+# Игнорируем кэш Python и Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
