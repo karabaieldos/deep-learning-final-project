@@ -1,4 +1,4 @@
-# Deep Learning for Multi-Label Toxic Comment Classification
+# Deep Learning for Multi-Label Toxic Comment Classification 
 
 ## 📌 Project Overview
 This project applies deep learning techniques to identify and classify toxic speech in online comments. The goal is to build a multi-label classification model that can predict six different toxicity categories: `toxic`, `severe_toxic`, `obscene`, `threat`, `insult`, and `identity_hate`.
