@@ -5,7 +5,7 @@ This project applies deep learning techniques to identify and classify toxic spe
 
 ## 📂 Dataset
 The project uses the **Jigsaw Toxic Comment Classification Challenge** dataset.
-* **Source:** [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) / [Hugging Face](https://huggingface.co/datasets/martin-ha/toxic-comment-model)
+* **Source:** [Kaggle](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge/data) / [Hugging Face](https://huggingface.co/datasets/dirtycomputer/Toxic_Comment_Classification_Challenge)
 * **Size:** ~159k training examples, ~153k test examples.
 * **Format:** Text strings mapping to 6 binary labels.
 
