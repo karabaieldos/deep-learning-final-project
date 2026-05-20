@@ -18,7 +18,7 @@ The project uses the **Jigsaw Toxic Comment Classification Challenge** dataset.
 
 ## 📅 Weekly Progress
 * [Week 1 Report](reports/week-01.md): Repository setup, dataset selection, and Exploratory Data Analysis (EDA).
-* *Week 2 Report: (Coming soon)*
+* [Week 2 Report](reports/week-02.md): Data cleaning, Train/Val, Baseline and metrics
 * *Week 3 Report: (Coming soon)*
 * *Week 4 Report: (Coming soon)*
 
