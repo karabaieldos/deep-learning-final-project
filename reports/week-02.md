@@ -8,7 +8,7 @@
 * Evaluated the baseline model using Macro ROC-AUC and a detailed classification report.
 
 **Results & Insights so far:**
-* **Baseline Macro ROC-AUC Score:** [INSERT_YOUR_ROC_AUC_SCORE]
+* **Baseline Macro ROC-AUC Score:** 0.9765
 * The baseline performs very well on general toxicity (`toxic`, `obscene`). However, as seen in the classification report, the `recall` for rare classes like `threat` and `identity_hate` is very low. The model struggles to identify these classes due to the extreme class imbalance discovered in Week 1.
 
 **Important commits or files changed:**
